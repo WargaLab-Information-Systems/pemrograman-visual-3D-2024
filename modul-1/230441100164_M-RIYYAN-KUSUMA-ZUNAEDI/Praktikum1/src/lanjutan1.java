@@ -24,6 +24,7 @@ public class lanjutan1 extends javax.swing.JFrame {
     Txt6.setText(Email1);
     Txt7.setText(Prodi1);
     Txt8.setText(Fakultas1);
+    
     }
 
     /** 
