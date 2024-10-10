@@ -1,0 +1,10 @@
+modul2.JualRoti$1
+modul2.JualRoti$2
+modul2.JualRoti$5
+modul2.JualRoti$6
+modul2.JualRoti$3
+modul2.JualRoti$4
+modul2.JualRoti$9
+modul2.JualRoti
+modul2.JualRoti$7
+modul2.JualRoti$8
